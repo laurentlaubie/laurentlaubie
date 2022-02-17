@@ -1,17 +1,12 @@
-### Hi there 👋
+Hi there 👋
 
-<!--
-**laurentlaubie/laurentlaubie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My current side-project is "Librarian", an app to find a book in your personnel librairie (scan with your mobile) when you go shopping.
 
-Here are some ideas to get you started:
+📌 Last Website Project : Décoration-360 , a webside for an interior architect.
+💻 Stack : WordPress, GitHub.
+📌 Last Application : High riders, as Symfony Developer, and little development React.
+💻 Stack : Symfony, Api REST using Doctrine, 
 
-- 🔭 I’m currently working on web technologies like HTML, CSS, JS, PHP, REACT
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: 
--> twitter : https://twitter.com/LLaubie
+🌱 I’m currently learning Symfony and WordPress to be self-sufficient and growing up in society
 
-- ⚡ Fun fact: ...
--->
+
