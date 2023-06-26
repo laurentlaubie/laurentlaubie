@@ -10,10 +10,7 @@ My current side-project is "Librarian", an app to find a book in your personnel 
 <p>📌 Last Websites Project : 
   <p>-> https://www.airsoftrulzwears.fr : Shopping Site for a company of AirSoft</p>
   <p>-> https://www.blackpottoks.fr : Poortfolio site, that present BlackPottoks Web Developer (me)</p>
-  <p>-> Décoration-360 : a webside for an interior architect</p>
-💻 Stack : WordPress, GitHub.</p>
-<p>📌 
-  -> blackpottoks.fr , a webside for my freelance company.
+  <p>-> https://www.decoration-360.com : a webside for an interior architect</p>
 💻 Stack : WordPress, GitHub.</p>
 <p>📌 
   -> dentabouche.mywebfactory.fr/ , a webside for a dentist.
