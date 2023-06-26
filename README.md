@@ -7,10 +7,10 @@ I helped companies to structure their code by making it accessible.
 
 My current side-project is "Librarian", an app to find a book in your personnel librairie (scan with your mobile) when you go shopping.
 
-<p>📌 Last Website Project : 
-  -> https://www.airsoftrulzwears.fr : Shopping Site for a company of AirSoft
-  -> https://www.blackpottoks.fr : Poortfolio site, that present BlackPottoks Web Developer (me)
-  -> Décoration-360 : a webside for an interior architect.
+<p>📌 Last Websites Project : 
+  <p>-> https://www.airsoftrulzwears.fr : Shopping Site for a company of AirSoft</p>
+  <p>-> https://www.blackpottoks.fr : Poortfolio site, that present BlackPottoks Web Developer (me)</p>
+  <p>-> Décoration-360 : a webside for an interior architect</p>
 💻 Stack : WordPress, GitHub.</p>
 <p>📌 
   -> blackpottoks.fr , a webside for my freelance company.
